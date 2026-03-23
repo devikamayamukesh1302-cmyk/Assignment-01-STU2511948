@@ -1,0 +1,90 @@
+[{
+  "_id": "E1001",
+  "name": "Samsung 55-inch 4K Smart TV",
+  "category": "Electronics",
+  "brand": "Samsung",
+  "price": 45000,
+  "currency": "INR",
+  "stock": 25,
+  "specifications": {
+    "screen_size": "55 inch",
+    "resolution": "4K UHD",
+    "smart_tv": true,
+    "connectivity": [
+      "WiFi",
+      "Bluetooth",
+      "HDMI",
+      "USB"
+    ],
+    "voltage": "220-240V"
+  },
+  "warranty": {
+    "period": "2 years",
+    "type": "Manufacturer",
+    "coverage": [
+      "Parts",
+      "Labor"
+    ]
+  },
+  "ratings": {
+    "average": 4.5,
+    "reviews": 120
+  }
+},
+{
+  "_id": "C2001",
+  "name": "Men's Cotton Casual Shirt",
+  "category": "Clothing",
+  "brand": "Levi's",
+  "price": 1499,
+  "currency": "INR",
+  "stock": 100,
+  "sizes_available": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "colors_available": [
+    "Blue",
+    "White",
+    "Black"
+  ],
+  "material": "100% Cotton",
+  "care_instructions": [
+    "Machine wash cold",
+    "Do not bleach",
+    "Iron at low temperature"
+  ],
+  "fit": "Regular",
+  "ratings": {
+    "average": 4.2,
+    "reviews": 75
+  }
+},
+{
+  "_id": "G3001",
+  "name": "Organic Whole Wheat Flour",
+  "category": "Groceries",
+  "brand": "Aashirvaad",
+  "price": 320,
+  "currency": "INR",
+  "stock": 200,
+  "weight": "5 kg",
+  "expiry_date": "2026-02-15",
+  "manufacturing_date": "2025-08-15",
+  "nutritional_info": {
+    "calories_per_100g": 340,
+    "protein": "12g",
+    "carbohydrates": "72g",
+    "fiber": "10g"
+  },
+  "ingredients": [
+    "Whole Wheat"
+  ],
+  "storage_instructions": "Store in a cool and dry place",
+  "ratings": {
+    "average": 4.6,
+    "reviews": 210
+  }
+}]
